@@ -1,0 +1,24 @@
+#title {
+  color: #adb5bd;
+  font-size: 250%;
+  font-family: sans-serif;
+}
+
+.text {
+  color: #adb5bd;
+  font-size: 150%;
+  font-family: sans-serif;
+}
+
+.imglp {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 14%;
+}
+
+.tables {
+  width: 100%;
+  color: #adb5bd;
+  background-color: #495057;
+}
